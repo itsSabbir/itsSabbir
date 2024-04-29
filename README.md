@@ -4,7 +4,7 @@
 
 🔬 **Bioinformatics & Computational Biology Specialist**  
 🏫 **Research Associate at Johns Hopkins University**  
-🎓 **Alumnus of University of Toronto ('24)**  
+🎓 **Alumnus of University of Toronto**  
 🌿 **Advocate for Sustainable Practices in Science**
 
 I'm deeply passionate about leveraging machine learning, AI, and software engineering to push the boundaries of cancer research and data analysis. I am also committed to integrating sustainable practices into the research and development processes.
