@@ -31,8 +31,8 @@ I'm deeply passionate about leveraging machine learning, AI, and software engine
 
 Feel free to reach out for collaborations or just a chat about anything from the latest in tech to the best Harry Potter spells!
 
-- **[LinkedIn](www.linkedin.com/in/itssabbir)**
-- **[Email](sabbir.hossain@mail.utoronto.ca)**
+- **[LinkedIn](https://www.linkedin.com/in/itssabbir)**  
+- **[Email](mailto:sabbir.hossain@mail.utoronto.ca)**
 
 Thank you for visiting my profile. Star some repositories, and let's connect!
 
