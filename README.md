@@ -11,23 +11,22 @@ I'm deeply passionate about leveraging machine learning, AI, and software engine
 
 ### My Interests
 
-- **Machine Learning & AI**: Exploring how AI can transform healthcare and scientific research.
-- **Software Engineering**: Developing robust tools and applications to facilitate research.
-- **Data Analysis**: Turning complex data sets into actionable insights.
-
-### A Little More Personal
-
-- 📚 **Avid Reader**: From the magical corridors of Hogwarts to the latest in scientific literature.
-- 📺 **TV Shows Enthusiast**: I love unwinding with everything from mysteries to comedies.
-- 🍳 **Cooking**: Experimenting with recipes and flavors, especially when I can share them with friends and family.
+- 🤖 **Machine Learning & AI**: Exploring how AI can transform healthcare and scientific research.
+- 💻 **Software Engineering**: Developing robust tools and applications to facilitate research.
+- 📊 **Data Analysis**: Turning complex data sets into actionable insights.
 
 ### The Journey So Far
 As a fledgling software engineer-bioinformatician-computational biologist, I'm navigating the dynamic fields of computational research and software development, integrating my passion for sustainable practices into my work, and continually learning and growing along the way.
 
-### Some Favourites
-- **Books**: Harry Potter series, Darren Shan saga, The 39 Clues, Percy Jackson and the Olympians, A Song of Ice and Fire, The Inheritance Cycle, The Lord of the Rings
-- **TV Shows**: Game of Thrones, The Office, House of Cards, Avatar: The Last Airbender, Suits, House M.D., Breaking Bad, Better Call Saul, Planet Earth
-- **Foods**: Biryani, Tandoori chicken, sushi, shawarma
+### A Little More Personal & Favorites
+
+📚 **Books:** Harry Potter series, Darren Shan saga, The 39 Clues, Percy Jackson and the Olympians, A Song of Ice and Fire, The Inheritance Cycle, The Lord of the Rings
+
+📺 **TV Shows:** Game of Thrones, The Office, House of Cards, Avatar: The Last Airbender, Suits, House M.D., Breaking Bad, Better Call Saul, Planet Earth
+
+🍳 **Foods:** Biryani, Tandoori chicken, sushi, shawarma
+
+**Leisure Activities:** Reading the latest in scientific literature, watching TV shows from mysteries to comedies, and experimenting with recipes and flavors, especially when I can share them with friends and family.
 *Note: These lists are presented in no particular order.*
 
 ### Connect With Me
