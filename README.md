@@ -21,11 +21,14 @@ I'm deeply passionate about leveraging machine learning, AI, and software engine
 - 📺 **TV Shows Enthusiast**: I love unwinding with everything from mysteries to comedies.
 - 🍳 **Cooking**: Experimenting with recipes and flavors, especially when I can share them with friends and family.
 
-### Currently Enjoying
+### The Journey So Far
+As a fledgling software engineer-bioinformatician-computational biologist, I'm navigating the dynamic fields of computational research and software development, integrating my passion for sustainable practices into my work, and continually learning and growing along the way.
 
-- **Books**: *Placeholder for favorite books – To be updated soon.*
-- **TV Shows**: *Placeholder for favorite TV shows – To be updated soon.*
-- **Foods**: *Placeholder for favorite dishes – To be updated soon.*
+### Some Favourites
+- **Books**: Harry Potter series, Darren Shan saga, The 39 Clues, Percy Jackson and the Olympians, A Song of Ice and Fire, The Inheritance Cycle, The Lord of the Rings
+- **TV Shows**: Game of Thrones, The Office, House of Cards, Avatar: The Last Airbender, Suits, House M.D., Breaking Bad, Better Call Saul, Planet Earth
+- **Foods**: Biryani, Tandoori chicken, sushi, shawarma
+*Note: These lists are presented in no particular order.*
 
 ### Connect With Me
 
