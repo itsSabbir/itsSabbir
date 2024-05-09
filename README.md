@@ -11,8 +11,8 @@ I'm deeply passionate about leveraging machine learning, AI, and software engine
 
 ### My Interests
 
-- 🤖 **Machine Learning & AI**: Exploring how AI can transform healthcare and scientific research.
-- 💻 **Software Engineering**: Developing robust tools and applications to facilitate research.
+- 🤖 **Machine Learning & AI**: Exploring how AI can transform industry, healthcare and scientific research.
+- 💻 **Software Engineering**: Developing robust tools and applications to facilitate research and industry.
 - 📊 **Data Analysis**: Turning complex data sets into actionable insights.
 
 ### The Journey So Far
