@@ -1,43 +1,44 @@
-# Welcome to My GitHub 👋
+# Welcome to Sabbir Hossain's GitHub 👋
 
-### About Me
+## About Me
+🔬 Bioinformatics & Computational Biology Specialist | 🏫 Research Associate at Johns Hopkins University | 🎓 University of Toronto Alumnus
 
-🔬 **Bioinformatics & Computational Biology Specialist**  
-🏫 **Research Associate at Johns Hopkins University**  
-🎓 **Alumnus of University of Toronto**  
-🌿 **Advocate for Sustainable Practices in Science**
+Passionate about leveraging AI, machine learning, and software engineering to revolutionize cancer research and data analysis. Committed to integrating sustainable practices into research and development processes.
 
-I'm deeply passionate about leveraging machine learning, AI, and software engineering to push the boundaries of cancer research and data analysis. I am also committed to integrating sustainable practices into the research and development processes.
+## 🚀 Current Roles
+- AI Software Engineer at Outlier
+- Web Development Engineer at Princeton Writing Coach
+- Bioinformatics Software Engineer & Researcher at Johns Hopkins University
 
-### My Interests
+## 💡 Core Competencies
+- **Languages**: Python, Java, C/C++, R, JavaScript, TypeScript, SQL, Swift, Bash/Shell, Go
+- **Web Tech**: React, Node.js, Express, Flask, WordPress
+- **AI/ML**: TensorFlow, PyTorch, scikit-learn, custom ML pipeline development
+- **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins
+- **Bioinformatics**: Multi-omics data integration, protein structure analysis, high-throughput sequencing
 
-- 🤖 **Machine Learning & AI**: Exploring how AI can transform industry, healthcare and scientific research.
-- 💻 **Software Engineering**: Developing robust tools and applications to facilitate research and industry.
-- 📊 **Data Analysis**: Turning complex data sets into actionable insights.
+## 🏆 Key Achievements
+- Led cancer research project, discovering 8 novel biomarkers
+- Developed open-source MicrobiomeExplorer R package
+- Processed 500+ TB of genomic data using HPC tools
+- Presented research at Harvard's National Collegiate Research Conference
+- Delivered oral presentation at ABRCMS 2023
 
-### The Journey So Far
-As a fledgling software engineer-bioinformatician-computational biologist, I'm navigating the dynamic fields of computational research and software development, integrating my passion for sustainable practices into my work, and continually learning and growing along the way.
+## 📊 Featured Projects
+- Image processing pipeline server (C, Python, multithreading)
+- Stock market prediction system (Python, Pandas, Scikit-learn)
+- AI-powered random fact generator (JavaScript, Node.js, DALL-E)
 
-### A Little More Personal & Favorites
+## 📚 When I'm Not Coding...
+I'm probably diving into a Harry Potter book, debating the best episodes of The Office, or experimenting with a new biryani recipe. Always up for a chat about the latest in tech or the best Hogwarts house (Gryffindor btw)!
 
-📚 **Books:** Harry Potter series, Darren Shan saga, The 39 Clues, Percy Jackson and the Olympians, A Song of Ice and Fire, The Inheritance Cycle, The Lord of the Rings
+## 🌟 Let's Connect!
+Feel free to reach out for collaborations or just a friendly chat:
+- [LinkedIn](https://www.linkedin.com/in/itssabbir)
+- [Email](mailto:hossain.sabbir17@gmail.com)
 
-📺 **TV Shows:** Game of Thrones, The Office, House of Cards, Avatar: The Last Airbender, Suits, House M.D., Breaking Bad, Better Call Saul, Planet Earth
+⚡ **Fun Fact**: Did you know that honey never spoils? Archaeologists have found 3000-year-old honey in ancient Egyptian tombs that's still perfectly edible!
 
-🍳 **Foods:** Biryani, Tandoori chicken, sushi, shawarma
+Thanks for stopping by. Don't forget to check out my repositories and let's innovate together!
 
-**Leisure Activities:** Reading the latest in scientific literature, watching TV shows from mysteries to comedies, and experimenting with recipes and flavors, especially when I can share them with friends and family.
-*Note: These lists are presented in no particular order.*
-
-### Connect With Me
-
-Feel free to reach out for collaborations or just a chat about anything from the latest in tech to the best Harry Potter spells!
-
-- **[LinkedIn](https://www.linkedin.com/in/itssabbir)**  
-- **[Email](mailto:sabbir.hossain@mail.utoronto.ca)**
-
-Thank you for visiting my profile. Star some repositories, and let's connect!
-
-### ⚡ Fun Fact:
-
-Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible!
+#ArtificialIntelligence #Bioinformatics #MachineLearning #CancerResearch #OpenSource
