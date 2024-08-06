@@ -7,8 +7,8 @@ Passionate about leveraging AI, machine learning, and software engineering to re
 
 ## 🚀 Current Roles
 - AI Software Engineer at Outlier
-- Web Development Engineer at Princeton Writing Coach
-- Bioinformatics Software Engineer & Researcher at Johns Hopkins University
+- Software and Web Development Engineer at Princeton Writing Coach
+- Full Stack Bioinformatics Software Engineer & Researcher at Johns Hopkins University
 
 ## 💡 Core Competencies
 - **Languages**: Python, Java, C/C++, R, JavaScript, TypeScript, SQL, Swift, Bash/Shell, Go
