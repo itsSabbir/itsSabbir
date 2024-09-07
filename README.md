@@ -6,8 +6,8 @@
 Passionate about leveraging AI, machine learning, and software engineering to revolutionize cancer research and data analysis. Committed to integrating sustainable practices into research and development processes.
 
 ## 🚀 Current Roles
-- AI Software Engineer at Outlier
-- Software and Web Development Engineer at Princeton Writing Coach
+- Software Developer (Backend) at Outlier
+- Freelance Full Stack Developer
 - Full Stack Bioinformatics Software Engineer & Researcher at Johns Hopkins University
 
 ## 💡 Core Competencies
