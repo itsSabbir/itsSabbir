@@ -37,7 +37,7 @@ Feel free to reach out for collaborations or just a friendly chat:
 - [LinkedIn](https://www.linkedin.com/in/itssabbir)
 - [Email](mailto:hossain.sabbir17@gmail.com)
 
-⚡ **Fun Fact**: Did you know that honey never spoils? Archaeologists have found 3000-year-old honey in ancient Egyptian tombs that's still perfectly edible!
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 Thanks for stopping by. Don't forget to check out my repositories and let's innovate together!
 
