@@ -35,7 +35,8 @@ Showcasing some of my coding journey metrics!
 
 ## <picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" width="20" alt="Man Technologist Emoji"></picture> About Me
 
-🔬 **Software Engineer & Data Scientist | Bioinformatics & Computational Biology Specialist** | 🎓 University of Toronto Alumnus (B.Sc. Hons, Comp Sci & Bioinformatics, GPA 3.96)
+🔬 **Software Engineer & Data Scientist | Bioinformatics & Computational Biology Specialist** |
+🎓 University of Toronto Alumnus (B.Sc. Hons, Comp Sci & Bioinformatics, GPA 3.96)
 
 Hello! I'm Sabbir, a passionate technologist driven by the potential of code and data to solve real-world problems. My core interest lies at the intersection of **software engineering**, **data science**, **artificial intelligence**, and **computational biology**, with a strong focus on contributing to advancements in **cancer research**.
 
