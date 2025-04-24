@@ -107,7 +107,7 @@ Dive deeper into some of the work I've done:
 *   **[Red Blood Cell Counter](https://github.com/itsSabbir/RedBloodCellCounter)**
     *   *Description:* Engineered a C application for automated Red Blood Cell detection and counting from BMP images. Implements image processing algorithms like segmentation and custom flood-fill techniques, optimizing memory allocation. Reduced false-positive rates by 30% compared to baseline methods.
     *   *Key Tech:* `C` `Image Processing` `Algorithm Design` `Data Structures` `Memory Management` `Performance Optimization`
-*   **[MicrobiomeExplorer R Package (Open Source)](https://github.com/itsSabbir/MicrobiomeExplore)**
+*   **[MicrobiomeExplorer R Package (Open Source)](https://github.com/itsSabbir/MicrobiomeExplorer)**
     *   *Description:* Created a modular R package designed for 16S rRNA and metagenomic dataset analysis. Integrates data preprocessing, ETL, advanced statistical methods (using Bioconductor), and interactive visualizations via R Shiny. Includes IoT compatibility for potential sensor integration.
     *   *Key Tech:* `R` `R Shiny` `Python` `Bash` `Bioconductor` `ETL` `Data Visualization` `Statistical Analysis` `Package Development`
 
