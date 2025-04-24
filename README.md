@@ -1,20 +1,45 @@
-# Welcome to Sabbir Hossain's GitHub Profile! 👋 Let's Build & Innovate Together!
+# Welcome to Sabbir Hossain's GitHub Profile! 👋
+
+## Let's Build & Innovate Together!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ1azZqNnBkNnM5M2M5cTJvcTV1Zno1bmk5enY2a3hpZ3d0bjlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ1azZqNnBkNnM5M2M5cTJvcTV1Zno1bmk5enY2a3hpZ3d0bjlxYSZlcH02b19pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" width="150" alt="Coding Time GIF">
   <br>
   <em>Software Engineer | Data Scientist | Bioinformatics Researcher | Cloud & AI Enthusiast</em>
 </p>
 
 ---
 
-## <picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" width="20"></picture> About Me
+## 📊 GitHub Stats & Activity
+
+Showcasing some of my coding journey metrics!
+
+<p align="center">
+  <!-- GitHub Stats Card (Dracula Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
+  
+  <!-- GitHub Streak Stats (Dracula Theme) -->
+  <img src="https://streak-stats.demolab.com?user=itsSabbir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
+  
+  <!-- Top Languages Card (Dracula Theme - Compact Layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
+
+  <!-- GitHub Trophies (Optional - Uncomment to use) -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
+
+  <!-- Profile Visitors Counter (Optional - Requires setting up) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
+</p>
+
+---
+
+## <picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" width="20" alt="Man Technologist Emoji"></picture> About Me
 
 🔬 **Software Engineer & Data Scientist | Bioinformatics & Computational Biology Specialist** | 🎓 University of Toronto Alumnus (B.Sc. Hons, Comp Sci & Bioinformatics, GPA 3.96)
 
 Hello! I'm Sabbir, a passionate technologist driven by the potential of code and data to solve real-world problems. My core interest lies at the intersection of **software engineering**, **data science**, **artificial intelligence**, and **computational biology**, with a strong focus on contributing to advancements in **cancer research**.
 
-My journey has equipped me with extensive experience across the **full software development lifecycle (SDLC)**, incorporating robust **DevOps/SRE practices**. I specialize in designing, building, and deploying **scalable distributed systems**, complex **web services**, and high-throughput **data pipelines**, primarily within the **AWS cloud ecosystem**. I believe in writing clean, maintainable code, following **SOLID principles**, employing **TDD**, and leveraging **automation (CI/CD, IaC)** wherever possible.
+My journey has equipped me with extensive experience across the **full software development lifecycle (SDLC)**, incorporating robust **DevOps/SRE practices**. I specialize in designing, building, and deploying **scalable distributed systems**, complex **web services**, and high-throughput **data pipelines**, primarily within the **AWS cloud ecosystem**. I believe in writing clean, maintainable code, following **SOLID principles**, employing **Test-Driven Development (TDD)**, and leveraging **automation (CI/CD, IaC)** wherever possible.
 
 Currently, I'm deepening my expertise as a Researcher at **Johns Hopkins University**, tackling large-scale multi-omics data challenges, and exploring cutting-edge AI applications and efficient backend systems as a Software Developer Intern at **Outlier**. I thrive in **cross-functional teams**, excel in **remote collaboration**, and am committed to **continuous learning** and adopting best practices.
 
@@ -24,18 +49,18 @@ My goal is to contribute to innovative teams working on challenging problems in 
 
 ## 🚀 What I'm Currently Focused On
 
-*   **@ Johns Hopkins University (Full-Stack SWE/Researcher):**
+*   **<picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e9.png" width="20" alt="University Emoji"></picture> @ Johns Hopkins University (Full-Stack SWE/Researcher):**
     *   Architecting & maintaining open-source, cloud-native bioinformatics platforms (Python, R, JS, C).
-    *   Engineering scalable ETL pipelines on HPC & Cloud (AWS) for 750TB+ multi-omics datasets (TCGA, ENCODE, etc.).
+    *   Engineering scalable ETL pipelines on HPC & Cloud (AWS) for **750TB+ multi-omics datasets** (TCGA, ENCODE, etc.).
     *   Implementing & validating ML models (SVM, RF, TensorFlow, Keras, Scikit-learn) for biomarker discovery and anomaly detection.
     *   Building interactive visualization portals (React, Next.js, D3.js, R Shiny).
     *   Deploying & managing microservices using Docker, Kubernetes, Terraform, and CI/CD (Jenkins, GitHub Actions).
-*   **@ Outlier (Backend SWE Intern):**
+*   **<picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png" width="20" alt="Rainbow Emoji"></picture> @ Outlier (Backend SWE Intern):**
     *   Optimizing AI-generated code (Python, Java) & improving model efficiency.
-    *   Designing & deploying serverless functions (AWS Lambda, API Gateway) for cost reduction & performance gains.
+    *   Designing & deploying serverless functions (AWS Lambda, API Gateway) for **cost reduction & performance gains**.
     *   Building & refactoring GraphQL/REST APIs (FastAPI, Spring Boot), contributing to monolith-to-microservices migration.
     *   Implementing integration tests for generative AI models.
-*   **Personal Development:**
+*   **<picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20" alt="Books Emoji"></picture> Personal Development:**
     *   Exploring advanced Kubernetes concepts (Service Mesh, Operators).
     *   Deepening knowledge in specific ML domains like Graph Neural Networks (GNNs).
     *   Contributing to relevant open-source projects (when time permits!).
@@ -44,28 +69,18 @@ My goal is to contribute to innovative teams working on challenging problems in 
 
 ## 💡 My Technical Toolbox
 
-I enjoy working with a wide array of technologies. Here are some of my primary tools and areas of expertise:
+Here's a visual representation of the technologies I frequently use:
 
-*   **Programming Languages:**
-    `Python` (Advanced) `Java` (Proficient) `C/C++` (Proficient - Systems/Performance) `R` (Advanced - Stats/Bioinfo) `JavaScript/TypeScript` (Proficient) `SQL` (Advanced) `Bash/Shell` (Proficient) `HTML/CSS` (Proficient)
-    *   *Familiar With:* `Go` `Swift` `MATLAB`
-*   **Core CS & Software Engineering Concepts:**
-    `Data Structures & Algorithms` `OOP (SOLID Principles)` `Design Patterns (Factory, Singleton, Observer, etc.)` `Concurrency & Multithreading` `Memory Management` `System Design` `Distributed Systems` `Network Protocols` `Software Architecture`
-*   **Web Development:**
-    `Full-Stack Development` `Web Application Development` `Microservices` `RESTful APIs` `GraphQL` `WebSockets` `Web Services (SOAP basic)` `Server-Side Rendering (SSR)`
-    *   *Frontend:* `React` `Next.js` `JavaScript/TypeScript` `HTML5` `CSS3` `Tailwind CSS` `D3.js`
-    *   *Backend:* `Node.js` `Express` `Python (Flask, Django, FastAPI)` `Java (Spring Boot basic)`
-    *   *Stacks:* `MERN`
-*   **DevOps, SRE & Cloud:**
-    `AWS (EC2, S3, Lambda, DynamoDB, RDS, IAM, API Gateway, etc.)` `Cloud Computing` `Docker` `Kubernetes (K8s)` `Infrastructure as Code (IaC - Terraform)` `CI/CD (Jenkins, GitHub Actions, GitLab CI)` `Serverless Architecture` `Monitoring & Alerting (Concepts, Prometheus/Grafana basic)` `Logging` `Load Balancing` `Observability` `Git/GitHub` `Linux/Unix Administration` `GitOps Concepts`
-*   **Databases & Data Engineering:**
-    `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQL (Advanced Querying, Optimization)` `NoSQL Concepts` `Database Design` `Data Modeling` `CRUD Operations` `ETL/ELT Pipelines` `Big Data Processing` `Streaming Data (Apache Kafka)` `Workflow Orchestration (Nextflow, Airflow concepts)` `Apache Spark (basic)` `Data Warehousing concepts`
-*   **Data Science & Machine Learning:**
-    `Machine Learning (SVM, Random Forest, K-Means, DBSCAN, XGBoost)` `Deep Learning (TensorFlow, PyTorch, Keras)` `Natural Language Processing (NLP - Sentiment Analysis)` `Feature Engineering & Selection` `Model Evaluation & Validation (Precision, Recall, F1, etc.)` `Hyperparameter Tuning` `Data Analysis (Pandas, NumPy, SciPy, Scikit-learn)` `Statistical Methods` `Data Visualization (D3.js, R Shiny, Plotly, Matplotlib, Seaborn)` `AI Ethics concepts`
-*   **Bioinformatics Specific:**
-    `Multi-Omics Data Integration (Genomics, Proteomics)` `High-Throughput Sequencing Analysis (RNA-seq, etc.)` `Biomarker Discovery` `Protein Structure Analysis (ChimeraX)` `Scientific Computing Libraries (Bioconductor)` `HPC Environments (SLURM basic)`
-*   **Workflow & Tools:**
-    `Agile/Scrum/Kanban` `SDLC` `Test-Driven Development (TDD)` `Unit Testing` `Integration Testing` `End-to-End Testing` `QA Principles` `Debugging & Troubleshooting Tools` `Code Review Best Practices` `Jira` `Confluence` `Technical Documentation` `LaTeX`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,postgresql,mysql,bash,html,css,go,swift,matlab,aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci,mongodb,redis,kafka,spark,react,nextjs,nodejs,express,fastapi,flask,tailwindcss,d3,rshiny,spring,sklearn,tensorflow,keras,pytorch,pandas,numpy,scipy,plotly,matplotlib,seaborn,vscode" height="45" alt="Tech Stack Icons" />
+</div>
+
+<br>
+
+Beyond these specific tools, I have a strong grasp of core concepts:
+*   **Core CS & Software Engineering:** Data Structures & Algorithms, OOP (SOLID), Design Patterns, Concurrency, Memory Management, System Design, Distributed Systems, Software Architecture.
+*   **Bioinformatics Specific:** Multi-Omics Data Integration, High-Throughput Sequencing Analysis, Biomarker Discovery, Protein Structure Analysis, Scientific Computing Libraries (Bioconductor), HPC Environments, Nextflow.
+*   **Workflow & Methodologies:** Agile/Scrum/Kanban, SDLC, TDD, Unit/Integration/E2E Testing, CI/CD, QA Principles, Debugging, Code Review, Technical Documentation.
 
 ---
 
@@ -73,43 +88,107 @@ I enjoy working with a wide array of technologies. Here are some of my primary t
 
 I believe in delivering tangible results. Some highlights include:
 
-*   **Accelerated Cancer Research:** Contributed to the discovery of **8 novel cancer biomarkers** through the development of high-throughput data pipelines processing **750+ TB** of multi-omics data at Johns Hopkins.
-*   **Enhanced Platform Performance & Scalability:** Reduced analysis load times by **83%** and supported **100+ global researchers** by architecting an open-source bioinformatics platform using microservices (Docker/K8s) and optimized caching (Redis).
-*   **Improved Data Reliability:** Boosted data integrity by **30%** across large genomic datasets by engineering and integrating automated ML-based anomaly detection workflows (TensorFlow, Scikit-learn) into CI/CD processes.
-*   **Cloud Infrastructure Optimization:** Deployed fault-tolerant, scalable microservices on AWS using IaC (Terraform), achieving **zero-downtime deployments** with 95% TDD coverage and reducing infrastructure costs by **30%** in specific use cases (via AWS Lambda).
-*   **API Performance Gains:** Reduced backend API latency by **35%** for GraphQL/REST endpoints through implementation of API Gateway, caching, and query batching techniques.
-*   **Prestigious Research Presentation:** Selected as **Plenary Speaker** at the National Collegiate Research Conference (NCRC) Harvard 2024 (1 of only 12 speakers chosen from over 5,000 applicants).
-*   **Competitive Conference Awards:** Received **Best Detailed Oral Presentation** at ABRCMS 2023 (Top presenter in division, selected from ~80/3,500+ attendees) and **Best Poster Presentation** at ABRCMS 2024 (vs. 150+ graduate presenters).
-*   **Academic Recognition:** Awarded multiple **Friends of Arts & Science Awards** in both Computer Sciences and Physical/Life Sciences at the University of Toronto (2022, 2023, 2024).
-*   **Open Source Leadership:** Created and maintained the **[Programming Language Learning Hub](https://github.com/itsSabbir/programming-language-learning-hub)**, managing **40+ community contributors** and reaching **1000+ global developers**.
+*   ✨ **Accelerated Cancer Research:** Contributed to the discovery of **8 novel cancer biomarkers** through the development of high-throughput data pipelines processing **750+ TB** of multi-omics data at Johns Hopkins.
+*   ⚡ **Enhanced Platform Performance & Scalability:** Reduced analysis load times by **83%** and supported **100+ global researchers** by architecting an open-source bioinformatics platform using microservices (Docker/K8s) and optimized caching (Redis).
+*   ✅ **Improved Data Reliability:** Boosted data integrity by **30%** across large genomic datasets by engineering and integrating automated ML-based anomaly detection workflows (TensorFlow, Scikit-learn) into CI/CD processes.
+*   ☁️ **Cloud Infrastructure Optimization:** Deployed fault-tolerant, scalable microservices on AWS using IaC (Terraform), achieving **zero-downtime deployments** with 95% TDD coverage and reducing infrastructure costs by **30%** in specific use cases (via AWS Lambda).
+*   📈 **API Performance Gains:** Reduced backend API latency by **35%** for GraphQL/REST endpoints through implementation of API Gateway, caching, and query batching techniques.
+*   🎤 **Prestigious Research Presentation:** Selected as **Plenary Speaker** at the National Collegiate Research Conference (NCRC) Harvard 2024 (1 of only 12 speakers chosen from over 5,000 applicants).
+*   🥇 **Competitive Conference Awards:** Received **Best Detailed Oral Presentation** at ABRCMS 2023 (Top presenter in division, selected from ~80/3,500+ attendees) and **Best Poster Presentation** at ABRCMS 2024 (vs. 150+ graduate presenters).
+*   🎓 **Academic Recognition:** Awarded multiple **Friends of Arts & Science Awards** in both Computer Sciences and Physical/Life Sciences at the University of Toronto (2022, 2023, 2024).
+*   🌐 **Open Source Leadership:** Created and maintained the **[Programming Language Learning Hub](https://github.com/itsSabbir/programming-language-learning-hub)**, managing **40+ community contributors** and reaching **1000+ global developers**.
 
 ---
 
 ## 📊 Featured Projects
 
-Dive deeper into some of the work I've done:
+Dive deeper into some of the work I've done. You can find more projects and contributions in my repositories!
 
-*   **[Image Processing Pipeline Server](https://github.com/itsSabbir/ImageProcessingPipeline)**
-    *   *Description:* High-performance multi-threaded C server designed for real-time image processing tasks. Implements POSIX threads, low-level socket communication, and robust synchronization mechanisms to handle high concurrency (<100ms latency for 100+ clients). Features TDD with Python integration tests and CI/CD integration. Demonstrates 30% performance improvement over baseline.
-    *   *Key Tech:* `C (pthreads)` `Python (Testing)` `Linux/Unix Systems Programming` `Sockets` `Multithreading` `Concurrency` `TDD` `CI/CD` `Design Patterns`
-*   **[Stock Market Prediction Pipeline](https://github.com/itsSabbir/stockMarketPrediction)**
-    *   *Description:* Built an end-to-end system for real-time stock price forecasting. Integrates Kafka for data streaming, performs feature engineering (RSI, MACD), incorporates sentiment analysis from financial news, and utilizes ML models (RandomForest, XGBoost) trained via Scikit-learn. Deployed as a Dockerized Flask web service API. Achieved approx. +/-5% prediction error.
-    *   *Key Tech:* `Python (Scikit-learn, Pandas, Flask)` `Apache Kafka` `Docker` `Machine Learning` `REST API` `Streaming Data` `Feature Engineering` `Sentiment Analysis`
-*   **[Programming Language Learning Hub (Open Source)](https://github.com/itsSabbir/programming-language-learning-hub)**
-    *   *Description:* An open-source educational web platform built with React and Node.js. Features 100+ interactive examples covering core concepts (pointers, memory management, OOP, async programming, decorators) across 7 different languages. Successfully managed 40+ community contributions via GitHub, growing the user base to over 1000 developers.
-    *   *Key Tech:* `React` `Node.js` `JavaScript` `HTML/CSS` `Markdown` `Git/GitHub` `Community Management` `Technical Writing`
-*   **[Bioinformatics Pipeline for Gene Expression Analysis](https://github.com/itsSabbir/bcb-dataprocessing)**
-    *   *Description:* Developed a reproducible and scalable bioinformatics pipeline using Nextflow, containerized with Docker/Kubernetes. Automates RNA-seq data analysis workflows (normalization, PCA, GSEA using DESeq2, edgeR, clusterProfiler) reducing manual processing time by 40%.
-    *   *Key Tech:* `Nextflow` `R (Bioconductor)` `Python` `Docker` `Kubernetes` `Bash` `Workflow Automation` `Genomics`
-*   **[Random Fact Generator](https://github.com/itsSabbir/random-fact-generator)**
-    *   *Description:* A full-stack MERN application that fetches random facts via external APIs and generates corresponding images using OpenAI's DALL-E model. Includes web scraping logic, RESTful services (Node.js/Express), MongoDB for storage, and Redis for caching. Features a modular backend and E2E testing.
-    *   *Key Tech:* `Node.js` `Express` `React` `MongoDB` `Redis` `MERN Stack` `REST API` `Web Scraping` `AI Integration (DALL-E)` `JavaScript`
-*   **[Red Blood Cell Counter](https://github.com/itsSabbir/RedBloodCellCounter)**
-    *   *Description:* Engineered a C application for automated Red Blood Cell detection and counting from BMP images. Implements image processing algorithms like segmentation and custom flood-fill techniques, optimizing memory allocation. Reduced false-positive rates by 30% compared to baseline methods.
-    *   *Key Tech:* `C` `Image Processing` `Algorithm Design` `Data Structures` `Memory Management` `Performance Optimization`
-*   **[MicrobiomeExplorer R Package (Open Source)](https://github.com/itsSabbir/MicrobiomeExplorer)**
-    *   *Description:* Created a modular R package designed for 16S rRNA and metagenomic dataset analysis. Integrates data preprocessing, ETL, advanced statistical methods (using Bioconductor), and interactive visualizations via R Shiny. Includes IoT compatibility for potential sensor integration.
-    *   *Key Tech:* `R` `R Shiny` `Python` `Bash` `Bioconductor` `ETL` `Data Visualization` `Statistical Analysis` `Package Development`
+### [Image Processing Pipeline Server](https://github.com/itsSabbir/ImageProcessingPipeline)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/ImageProcessingPipeline?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/ImageProcessingPipeline?style=flat-square&color=66ff66)
+
+*   *Description:* High-performance multi-threaded C server designed for real-time image processing tasks. Implements POSIX threads, low-level socket communication, and robust synchronization mechanisms to handle high concurrency (<100ms latency for 100+ clients). Features TDD with Python integration tests and CI/CD integration. Demonstrates 30% performance improvement over baseline.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=c,py,linux,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: Some concepts like Sockets, Multithreading, TDD, CI/CD don't have specific icons, best to mention them in text -->
+    </div>
+
+### [Stock Market Prediction Pipeline](https://github.com/itsSabbir/stockMarketPrediction)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/stockMarketPrediction?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/stockMarketPrediction?style=flat-square&color=66ff66)
+
+*   *Description:* Built an end-to-end system for real-time stock price forecasting. Integrates Kafka for data streaming, performs feature engineering (RSI, MACD), incorporates sentiment analysis from financial news, and utilizes ML models (RandomForest, XGBoost) trained via Scikit-learn. Deployed as a Dockerized Flask web service API. Achieved approx. +/-5% prediction error.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,kafka,docker,flask,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: Concepts like ML, REST API, Streaming Data, Feature Engineering, Sentiment Analysis are covered by the icons or best described in text -->
+    </div>
+
+### [Programming Language Learning Hub (Open Source)](https://github.com/itsSabbir/programming-language-learning-hub)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/programming-language-learning-hub?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/programming-language-learning-hub?style=flat-square&color=66ff66)
+![GitHub Contributors](https://img.shields.io/github/contributors/itsSabbir/programming-language-learning-hub?style=flat-square&color=ff66b3)
+
+*   *Description:* An open-source educational web platform built with React and Node.js. Features 100+ interactive examples covering core concepts (pointers, memory management, OOP, async programming, decorators) across 7 different languages. Successfully managed **40+ community contributions** via GitHub, growing the user base to over **1000 developers**.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,git,md,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: Concepts like Community Management, Technical Writing are covered by the icons or best described in text -->
+    </div>
+
+### [Bioinformatics Pipeline for Gene Expression Analysis](https://github.com/itsSabbir/bcb-dataprocessing)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/bcb-dataprocessing?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/bcb-dataprocessing?style=flat-square&color=66ff66)
+
+*   *Description:* Developed a reproducible and scalable bioinformatics pipeline using Nextflow, containerized with Docker/Kubernetes. Automates RNA-seq data analysis workflows (normalization, PCA, GSEA using DESeq2, edgeR, clusterProfiler) reducing manual processing time by **40%**.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=r,py,docker,kubernetes,bash,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: Nextflow, Bioconductor, Workflow Automation, Genomics are covered by the icons or best described in text -->
+    </div>
+
+### [Random Fact Generator](https://github.com/itsSabbir/random-fact-generator)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/random-fact-generator?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/random-fact-generator?style=flat-square&color=66ff66)
+
+*   *Description:* A full-stack MERN application that fetches random facts via external APIs and generates corresponding images using OpenAI's DALL-E model. Includes web scraping logic, RESTful services (Node.js/Express), MongoDB for storage, and Redis for caching. Features a modular backend and E2E testing.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,redis,js,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: MERN, REST API, Web Scraping, AI Integration (DALL-E) are covered by the icons or best described in text -->
+    </div>
+
+### [Red Blood Cell Counter](https://github.com/itsSabbir/RedBloodCellCounter)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/RedBloodCellCounter?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/RedBloodCellCounter?style=flat-square&color=66ff66)
+
+*   *Description:* Engineered a C application for automated Red Blood Cell detection and counting from BMP images. Implements image processing algorithms like segmentation and custom flood-fill techniques, optimizing memory allocation. Reduced false-positive rates by **30%** compared to baseline methods.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=c,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: Image Processing, Algorithm Design, Data Structures, Memory Management, Performance Optimization are concepts best described in text -->
+    </div>
+
+### [MicrobiomeExplorer R Package (Open Source)](https://github.com/itsSabbir/MicrobiomeExplorer)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/MicrobiomeExplorer?style=flat-square&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/MicrobiomeExplorer?style=flat-square&color=66ff66)
+
+*   *Description:* Created a modular R package designed for 16S rRNA and metagenomic dataset analysis. Integrates data preprocessing, ETL, advanced statistical methods (using Bioconductor), and interactive visualizations via R Shiny. Includes IoT compatibility for potential sensor integration.
+*   *Key Tech:*
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=r,rshiny,py,bash,vscode" height="30" alt="Project Tech Stack Icons" />
+      <!-- Note: Bioconductor, ETL, Data Visualization, Statistical Analysis, Package Development, IoT are concepts best described in text -->
+    </div>
+
 
 *(Find more projects and contributions in my repositories!)*
 
@@ -142,11 +221,30 @@ I enjoy engaging discussions on technology, science, culture, and finding elegan
 
 I'm always open to interesting collaborations, challenging opportunities, or just a stimulating conversation. Don't hesitate to reach out!
 
-*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabbir%20Hossain-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itssabbir)
-*   [![Gmail](https://img.shields.io/badge/Gmail-hossain.sabbir17@gmail.com-D14836?style=flat&logo=gmail)](mailto:hossain.sabbir17@gmail.com)
+<p align="center">
+  <!-- LinkedIn Badge (static/v1 style) -->
+  <a href="https://www.linkedin.com/in/itssabbir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo"  />
+  </a>
+  <!-- Gmail Badge (static/v1 style) -->
+  <a href="mailto:hossain.sabbir17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo"  />
+  </a>
+  <!-- Add more social badges here if applicable using static/v1 style -->
+  <!-- Example: Personal Website
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Link"  />
+  </a>
+  -->
+  <!-- Example: Twitter (if you use it)
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter Logo"  />
+  </a>
+  -->
+</p>
 
 ---
 
-Thanks for stopping by my GitHub profile. Check out my pinned repositories and let's connect!
+Thanks for stopping by my GitHub profile! Your visit is appreciated. ✨
 
-`#SoftwareEngineering` `#DataScience` `#Bioinformatics` `#MachineLearning` `#ArtificialIntelligence` `#CloudComputing` `#AWS` `#DevOps` `#SRE` `#FullStack` `#Python` `#Java` `#C++` `#R` `#Docker` `#Kubernetes` `#OpenSource` `#CancerResearch`
+`#SoftwareEngineering` `#DataScience` `#Bioinformatics` `#MachineLearning` `#ArtificialIntelligence` `#CloudComputing` `#AWS` `#DevOps` `#SRE` `#FullStack` `#Python` `#Java` `#C++` `#R` `#Docker` `#Kubernetes` `#OpenSource` `#CancerResearch` `#TechForGood`
