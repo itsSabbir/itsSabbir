@@ -17,11 +17,11 @@ Showcasing some of my coding journey metrics!
 <p align="center">
   <!-- GitHub Stats Card (Dracula Theme) -->
   <img src="https://github-readme-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
-  
+
   <!-- GitHub Streak Stats (Dracula Theme) -->
   <img src="https://streak-stats.demolab.com?user=itsSabbir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
-  
-  <!-- Top Languages Card (Dracula Theme - Compact Layout - WITH PRIVATE REPOS) -->
+
+  <!-- Top Languages Card (Dracula Theme - Compact Layout - Includes Private Repos) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&count_private=true" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
 
   <!-- GitHub Trophies (Optional - Uncomment to use) -->
@@ -35,7 +35,7 @@ Showcasing some of my coding journey metrics!
 
 ## <picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" width="20" alt="Man Technologist Emoji"></picture> About Me
 
-🔬 **Software Engineer & Data Scientist | Bioinformatics & Computational Biology Specialist** 
+🔬 **Software Engineer & Data Scientist | Bioinformatics & Computational Biology Specialist**
 
 🎓 University of Toronto Alumnus (B.Sc. Hons, Comp Sci & Bioinformatics, GPA 3.96)
 
@@ -115,7 +115,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=c,py,linux,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: Some concepts like Sockets, Multithreading, TDD, CI/CD don't have specific icons, best to mention them in text -->
     </div>
 
 ### [Stock Market Prediction Pipeline](https://github.com/itsSabbir/stockMarketPrediction)
@@ -127,7 +126,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,kafka,docker,flask,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: Concepts like ML, REST API, Streaming Data, Feature Engineering, Sentiment Analysis are covered by the icons or best described in text -->
     </div>
 
 ### [Programming Language Learning Hub (Open Source)](https://github.com/itsSabbir/programming-language-learning-hub)
@@ -140,7 +138,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,git,md,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: Concepts like Community Management, Technical Writing are covered by the icons or best described in text -->
     </div>
 
 ### [Bioinformatics Pipeline for Gene Expression Analysis](https://github.com/itsSabbir/bcb-dataprocessing)
@@ -152,7 +149,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=r,py,docker,kubernetes,bash,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: Nextflow, Bioconductor, Workflow Automation, Genomics are covered by the icons or best described in text -->
     </div>
 
 ### [Random Fact Generator](https://github.com/itsSabbir/random-fact-generator)
@@ -164,7 +160,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,redis,js,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: MERN, REST API, Web Scraping, AI Integration (DALL-E) are covered by the icons or best described in text -->
     </div>
 
 ### [Red Blood Cell Counter](https://github.com/itsSabbir/RedBloodCellCounter)
@@ -176,7 +171,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=c,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: Image Processing, Algorithm Design, Data Structures, Memory Management, Performance Optimization are concepts best described in text -->
     </div>
 
 ### [MicrobiomeExplorer R Package (Open Source)](https://github.com/itsSabbir/MicrobiomeExplorer)
@@ -188,7 +182,6 @@ Dive deeper into some of the work I've done. You can find more projects and cont
 *   *Key Tech:*
     <div align="left">
       <img src="https://skillicons.dev/icons?i=r,rshiny,py,bash,vscode" height="30" alt="Project Tech Stack Icons" />
-      <!-- Note: Bioconductor, ETL, Data Visualization, Statistical Analysis, Package Development, IoT are concepts best described in text -->
     </div>
 
 
