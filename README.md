@@ -15,7 +15,7 @@
 Showcasing some of my coding journey metrics!
 
 <p align="center">
-  <!-- GitHub Stats Card (Dracula Theme) -->
+  <!-- GitHub Stats Card (Dracula Theme - Includes Private Contributions) -->
   <img src="https://github-readme-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
   <!-- GitHub Streak Stats (Dracula Theme) -->
