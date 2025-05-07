@@ -18,17 +18,17 @@ Showcasing some of my coding journey metrics!
   <!-- GitHub Stats Card (Cobalt Theme - Includes Private Contributions VIA YOUR DEPLOYMENT) -->
   <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
-  <!-- GitHub Streak Stats (Dracula Theme) -->
-  <img src="https://streak-stats.demolab.com?user=itsSabbir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
+<!-- GitHub Streak Stats (Dracula Theme) -->
+ <img src="https://streak-stats.demolab.com?user=itsSabbir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
 
-  <!-- Top Languages Card (Cobalt Theme - Compact Layout - Includes Private Repos VIA YOUR DEPLOYMENT) -->
-  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&count_private=true" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
+<!-- Top Languages Card (Cobalt Theme - Compact Layout - Includes Private Repos VIA YOUR DEPLOYMENT) -->
+<img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&count_private=true" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
 
-  <!-- GitHub Trophies (Optional - Uncomment to use) -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
+<!-- GitHub Trophies (Optional - Uncomment to use) -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
 
-  <!-- Profile Visitors Counter (Optional - Requires setting up) -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
+<!-- Profile Visitors Counter (Optional - Requires setting up) -->
+<!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
 </p>
 
 ---
