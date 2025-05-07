@@ -19,7 +19,7 @@ Showcasing some of my coding journey metrics!
   <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
   <!-- GitHub Streak Stats (Cobalt Theme - Should include private if GitHub setting is enabled) -->
-  <img src="https://sabbir-streak-stats.vercel.app/api?user=itsSabbir&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
+  <img src="https://streak-stats.demolab.com?user=itsSabbir&theme=cobalt" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
 
   <!-- Top Languages Card (Cobalt Theme - Compact Layout - Includes Private Repos VIA YOUR DEPLOYMENT) -->
   <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&count_private=true" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
