@@ -14,7 +14,7 @@
 
 Showcasing some of my coding journey metrics!
 
-<p align="center">
+  <p align="center">
   <!-- GitHub Stats Card (Cobalt Theme - Includes Private Contributions VIA YOUR DEPLOYMENT) -->
   <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
