@@ -20,6 +20,7 @@ Showcasing some of my coding journey metrics!
 
   <!-- GitHub Streak Stats (Cobalt Theme - Should include private if GitHub setting is enabled) -->
   <img src="https://streak-stats.demolab.com?user=itsSabbir&theme=tokyonight" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=itsSabbir)](https://git.io/streak-stats)
 
   <!-- Top Languages Card (Cobalt Theme - Compact Layout - Includes Private Repos VIA YOUR DEPLOYMENT) -->
   <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
