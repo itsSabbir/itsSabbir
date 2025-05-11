@@ -9,51 +9,29 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 Showcasing some of my coding journey metrics!
 
-<p align="center">
+  <p align="center">
 
-  <!-- 📈 GitHub Stats Card (Cobalt Theme - Private Contributions Included) -->
-  <img 
-    src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
-    height="150" 
-    alt="Sabbir's GitHub Stats" 
-    style="border-radius: 12px; max-width: 100%;" />
+  <!-- GitHub Stats Card (Cobalt Theme - Includes Private Contributions VIA YOUR DEPLOYMENT) -->
+  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
-  <!-- 🔥 GitHub Streak Stats (Shows contribution streak, supports private activity) -->
-  <img 
-    src="https://github-readme-streak-stats-eight-dun.vercel.app?user=itsSabbir&theme=tokyonight&count_private=true" 
-    height="150" 
-    alt="Sabbir's GitHub Streak" 
-    style="border-radius: 12px; max-width: 100%;" />
+  <!-- GitHub Streak Stats (Cobalt Theme - Should include private if GitHub setting is enabled) -->
+  <img src="https://github-readme-streak-stats-eight-dun.vercel.app?user=itsSabbir&theme=tokyonight&count_private=true" height="150" alt="Sabbir's GitHub   Streak" style="max-width: 100%;" />
 
-  <!-- 🌐 Top Languages Used (Compact layout, includes private, updated hourly) -->
-  <img 
-    src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&count_private=true&cache_seconds=3600&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" 
-    height="150" 
-    alt="Sabbir's Top Languages" 
-    style="border-radius: 12px; max-width: 100%;" />
+  <!-- Top Languages Card (Cobalt Theme - Compact Layout, Fixed Visual Bug) -->
+  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=60" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
 
-  <!-- 🏆 GitHub Trophies (Optional - Uncomment to enable achievements section) -->
-  <!--
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" 
-    alt="Sabbir's GitHub Trophies" 
-    style="border-radius: 12px; max-width: 100%;" />
-  -->
+  <!-- GitHub Trophies (Optional - Uncomment to use) -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
 
-  <!-- 👁️ Profile View Counter (Optional - Uncomment to enable) -->
-  <!--
-  <img 
-    src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" 
-    alt="Profile Views" 
-    style="border-radius: 12px; max-width: 100%;" />
-  -->
+  <!-- Profile Visitors Counter (Optional - Requires setting up) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
 
-</p>
+  </p>
+
 
 
 
