@@ -14,22 +14,55 @@
 
 Showcasing some of my coding journey metrics!
 
-  <p align="center">
-  <!-- GitHub Stats Card (Cobalt Theme - Includes Private Contributions VIA YOUR DEPLOYMENT) -->
-  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
-  
-  <!-- GitHub Streak Stats (Cobalt Theme - Should include private if GitHub setting is enabled) -->
-  <img src="https://github-readme-streak-stats-eight-dun.vercel.app?user=itsSabbir&theme=tokyonight&count_private=true" height="150" alt="Sabbir's GitHub   Streak" style="max-width: 100%;" />
+<p align="center">
 
-  <!-- Top Languages Card (Cobalt Theme - Compact Layout - Includes Private Repos VIA YOUR DEPLOYMENT) -->
-  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
+  <!-- 🧠 GitHub Stats Card (includes all commits + private) -->
+  <img 
+    src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
+    height="150" 
+    alt="Sabbir's GitHub Stats" 
+    style="max-width: 100%;"/>
 
-<!-- GitHub Trophies (Optional - Uncomment to use) -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
+  <!-- 🔥 GitHub Streak Stats (shows daily contribution streaks) -->
+  <img 
+    src="https://github-readme-streak-stats-eight-dun.vercel.app?user=itsSabbir&theme=tokyonight&count_private=true" 
+    height="150" 
+    alt="Sabbir's GitHub Streak" 
+    style="max-width: 100%;" />
 
-<!-- Profile Visitors Counter (Optional - Requires setting up) -->
-<!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
+  <!-- 📊 Top Languages Used (includes private, updates hourly) -->
+  <img 
+    src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=3600" 
+    height="150" 
+    alt="Sabbir's Top Languages" 
+    style="max-width: 100%;" />
+
+  <!-- 👨‍💻 Terminal-style Stats (Optional - Looks like a real CLI output) -->
+  <!-- <img 
+    src="https://github-profile-terminal.vercel.app/api?username=itsSabbir&theme=dark" 
+    alt="Terminal GitHub Stats" 
+    style="max-width: 100%;"/> -->
+
+  <!-- 🛠️ Skill Icons (Optional - Displays tech stack visually) -->
+  <!-- <img 
+    src="https://skillicons.dev/icons?i=python,cpp,js,react,aws,docker,bash,linux,git" 
+    alt="Tech Stack Icons" 
+    style="max-width: 100%;"/> -->
+
+  <!-- 🏆 GitHub Trophies (Optional - Gamified stats) -->
+  <!-- <img 
+    src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" 
+    alt="GitHub Trophies" 
+    style="max-width: 100%;"/> -->
+
+  <!-- 👁️‍🗨️ Profile Views Counter (Optional - Tracks visits) -->
+  <!-- <img 
+    src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" 
+    alt="Profile Views" 
+    style="max-width: 100%;"/> -->
+
 </p>
+
 
 ---
 
