@@ -110,6 +110,18 @@ I believe in delivering tangible results. Some highlights include:
 
 Dive deeper into some of the work I've done. You can find more projects and contributions in my repositories!
 
+### [Anomaly Detection System](https://github.com/itsSabbir/anomaly-detection-system-2)
+
+![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/anomaly-detection-system-2?style=flat-square\&color=ffff66)
+![GitHub Forks](https://img.shields.io/github/forks/itsSabbir/anomaly-detection-system-2?style=flat-square\&color=66ff66)
+
+* *Description:* A high-throughput anomaly detection platform for real-time classification of outlier samples in large biological datasets. Supports streaming and batch modes, integrates multiple ML models (Isolation Forest, Autoencoders, LOF), and logs outputs via a scalable, containerized microservice architecture. Used for quality control in genomics pipelines.
+* *Key Tech:*
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,docker,kubernetes,fastapi,git,vscode" height="30" alt="Project Tech Stack Icons" />
+  </div>
+
 ### [Image Processing Pipeline Server](https://github.com/itsSabbir/ImageProcessingPipeline)
 
 ![GitHub Stars](https://img.shields.io/github/stars/itsSabbir/ImageProcessingPipeline?style=flat-square&color=ffff66)
