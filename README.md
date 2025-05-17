@@ -80,7 +80,7 @@ My goal is to contribute to innovative teams working on challenging problems in 
 Here's a visual representation of the technologies I frequently use:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,postgresql,mysql,bash,html,css,go,swift,matlab,aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci,mongodb,redis,kafka,spark,react,nextjs,nodejs,express,fastapi,flask,tailwindcss,d3,rshiny,spring,sklearn,tensorflow,keras,pytorch,pandas,numpy,scipy,plotly,matplotlib,seaborn,vscode" height="45" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,postgresql,mysql,bash,html,css,go,swift,matlab,aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci,mongodb,redis,kafka,spark,react,nextjs,nodejs,express,fastapi,flask,tailwindcss,d3,rshiny,spring,sklearn,tensorflow,keras,pytorch,pandas,numpy,scipy,plotly,matplotlib,seaborn,vscode&perline=15" height="60" alt="Tech Stack Icons" />
 </div>
 
 <br>
