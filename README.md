@@ -80,10 +80,10 @@ My goal is to contribute to innovative teams working on challenging problems in 
 Here's a visual representation of the technologies I frequently use:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,postgresql,mysql,bash,html,css,go,swift,matlab" height="100" alt="Tech Stack Row 1" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci,mongodb,redis,kafka,spark" height="100" alt="Tech Stack Row 2" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwindcss,d3,rshiny" height="100" alt="Tech Stack Row 3" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,sklearn,tensorflow,keras,pytorch,pandas,numpy,scipy,plotly,matplotlib,seaborn,vscode" height="100" alt="Tech Stack Row 4" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,postgresql,mysql,bash,html,css" height="100" alt="Tech Stack Row 1" /><br/>
+  <img src="https://skillicons.dev/icons?i=go,swift,matlab,aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci,mongodb,redis" height="100" alt="Tech Stack Row 2" /><br/>
+  <img src="https://skillicons.dev/icons?i=kafka,spark,react,nextjs,nodejs,express,fastapi,flask,tailwindcss,d3,rshiny,spring" height="100" alt="Tech Stack Row 3" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,keras,pytorch,pandas,numpy,scipy,plotly,matplotlib,seaborn,vscode" height="100" alt="Tech Stack Row 4" />
 </div>
 
 <br>
