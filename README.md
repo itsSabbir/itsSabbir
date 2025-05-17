@@ -9,9 +9,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats & Activity
-
-Showcasing some of my coding journey metrics!
       
 ## 📊 GitHub Stats & Activity
 
