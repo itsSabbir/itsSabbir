@@ -36,7 +36,31 @@ Showcasing some of my coding journey metrics!
     
 
 
+## 📊 GitHub Stats & Activity
 
+Showcasing some of my coding journey metrics! A refresh is attempted frequently for testing.
+
+<p align="center">
+
+  <!-- GitHub Stats Card: Aggressive cache setting for testing -->
+  <!-- Note: The service may have a minimum cache it enforces, overriding very low values. -->
+  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="Sabbir's GitHub Stats (Test Cache)" style="max-width: 100%;"/>
+  <!-- Tip: To manually try and force a refresh of the stats card above, add/change a unique query parameter like '&test_run=YYMMDDHHMMSS' to the end of the URL -->
+
+  <!-- GitHub Streak Stats: Manual Cache Buster -->
+  <!-- To attempt a manual refresh for the streak card, change the 'manual_buster' value below to something new -->
+  <img src="https://github-readme-streak-stats-eight-dun.vercel.app?user=itsSabbir&theme=tokyonight&count_private=true&manual_buster=20240315_test01" height="150" alt="Sabbir's GitHub Streak (Test Cache)" style="max-width: 100%;" />
+
+  <!-- Top Languages Card: Lower cache for testing -->
+  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=3600" height="150" alt="Sabbir's Top Languages (Test Cache)" style="max-width: 100%;"/>
+
+  <!-- GitHub Trophies (Optional - Uncomment to use) -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
+
+  <!-- Profile Visitors Counter (Optional - Requires setting up) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
+
+</p>
 
 ---
 
