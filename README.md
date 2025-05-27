@@ -8,38 +8,16 @@ Showcasing some of my coding journey metrics!
 
   <!-- Your Vercel Deployment of GitHub Stats Card -->
   <!--
-    NOTES for this card:
-    - Assumes your Vercel deployment 'sabbir-gh-stats.vercel.app' is correctly configured with GITHUB_TOKEN.
-    - 'cache_seconds=1800' requests a 30-minute cache. The service may enforce a longer minimum.
-    - Change 'manual_bust_stats=YYYYMMDDHHMMSS_A' to a new unique value to attempt a refresh.
+    IMPORTANT: This deployment (sabbir-gh-stats.vercel.app) is configured to look for a
+    GitHub PAT in an environment variable named PAT_1 on Vercel. Ensure this is correctly set.
   -->
-  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=1800&manual_bust_stats=20240315110000_A" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
+  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=1800&manual_bust_stats=20240315113000_A" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
   <!-- GitHub Streak Stats Card -->
-  <!--
-    NOTES for this card:
-    - Change 'manual_bust_streak=YYYYMMDDHHMMSS_B' to a new unique value to attempt a refresh.
-  -->
-  <img src="https://github-readme-streak-stats-eight-dun.vercel.app/?user=itsSabbir&theme=tokyonight&count_private=true&manual_bust_streak=20240315110000_B" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats-eight-dun.vercel.app/?user=itsSabbir&theme=tokyonight&count_private=true&manual_bust_streak=20240315113000_B" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;" />
 
   <!-- Your Vercel Deployment of Top Languages Card -->
-  <!--
-    NOTES for this card:
-    - Assumes your Vercel deployment 'sabbir-gh-stats.vercel.app' for top-langs.
-    - 'cache_seconds=3600' requests a 1-hour cache.
-    - Change 'manual_bust_langs=YYYYMMDDHHMMSS_C' to a new unique value to attempt a refresh.
-  -->
-  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=3600&manual_bust_langs=20240315110000_C" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
-
-  <!-- GitHub Trophies (Optional - Uncomment by removing <!-- and --> lines to use) -->
-  <!--
-  <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Sabbir's GitHub Trophies"/>
-  -->
-
-  <!-- Profile Visitors Counter (Optional - Requires setting up on a service like https://hits.seeyoufarm.com) -->
-  <!--
-  <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views">
-  -->
+  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=3600&manual_bust_langs=20240315113000_C" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
 
 </p>
 
