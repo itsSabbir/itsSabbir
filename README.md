@@ -1,38 +1,47 @@
 # Welcome to Sabbir Hossain's GitHub Profile! 👋
 
-## Let's Build & Innovate Together!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ1azZqNnBkNnM5M2M5cTJvcTV1Zno1bmk5enY2a3hpZ3d0bjlxYSZlcH02b19pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" width="150" alt="Coding Time GIF">
-  <br>
-  <em>Software Engineer | Data Scientist | Bioinformatics Researcher | Cloud & AI Enthusiast</em>
-</p>
-
----
-      
 ## 📊 GitHub Stats & Activity
 
 Showcasing some of my coding journey metrics!
-  <p align="center">
 
-  <!-- GitHub Stats Card: Aim for ~24 hour cache -->
-  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
+<p align="center">
 
-  <!-- GitHub Streak Stats: External service, relies on its own caching -->
-  <!-- Adding a 'force_refresh' with a fixed (but unique to this setup) value can sometimes help ensure Camo/browser refetches it once, then its own cache takes over -->
-  <img src="https://github-readme-streak-stats-eight-dun.vercel.app?user=itsSabbir&theme=tokyonight&count_private=true&cache_buster=A1B2C3D4" height="150" alt="Sabbir's GitHub   Streak" style="max-width: 100%;" />
+  <!-- Your Vercel Deployment of GitHub Stats Card -->
+  <!--
+    NOTES for this card:
+    - Assumes your Vercel deployment 'sabbir-gh-stats.vercel.app' is correctly configured with GITHUB_TOKEN.
+    - 'cache_seconds=1800' requests a 30-minute cache. The service may enforce a longer minimum.
+    - Change 'manual_bust_stats=YYYYMMDDHHMMSS_A' to a new unique value to attempt a refresh.
+  -->
+  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=1800&manual_bust_stats=20240315110000_A" height="150" alt="Sabbir's GitHub Stats" style="max-width: 100%;"/>
 
-  <!-- Top Languages Card: Aim for ~24 hour cache (languages don't change extremely rapidly) -->
-  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=86400" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
+  <!-- GitHub Streak Stats Card -->
+  <!--
+    NOTES for this card:
+    - Change 'manual_bust_streak=YYYYMMDDHHMMSS_B' to a new unique value to attempt a refresh.
+  -->
+  <img src="https://github-readme-streak-stats-eight-dun.vercel.app/?user=itsSabbir&theme=tokyonight&count_private=true&manual_bust_streak=20240315110000_B" height="150" alt="Sabbir's GitHub Streak" style="max-width: 100%;" />
 
-  <!-- GitHub Trophies (Optional - Uncomment to use) -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true" alt="Sabbir's GitHub Trophies"/> -->
+  <!-- Your Vercel Deployment of Top Languages Card -->
+  <!--
+    NOTES for this card:
+    - Assumes your Vercel deployment 'sabbir-gh-stats.vercel.app' for top-langs.
+    - 'cache_seconds=3600' requests a 1-hour cache.
+    - Change 'manual_bust_langs=YYYYMMDDHHMMSS_C' to a new unique value to attempt a refresh.
+  -->
+  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=3600&manual_bust_langs=20240315110000_C" height="150" alt="Sabbir's Top Languages" style="max-width: 100%;"/>
 
-  <!-- Profile Visitors Counter (Optional - Requires setting up) -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views"> -->
+  <!-- GitHub Trophies (Optional - Uncomment by removing <!-- and --> lines to use) -->
+  <!--
+  <img src="https://github-profile-trophy.vercel.app/?username=itsSabbir&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Sabbir's GitHub Trophies"/>
+  -->
 
-  </p>
+  <!-- Profile Visitors Counter (Optional - Requires setting up on a service like https://hits.seeyoufarm.com) -->
+  <!--
+  <img src="https://komarev.com/ghpvc/?username=itsSabbir&color=blue&label=Profile%20Views" alt="Profile Views">
+  -->
 
+</p>
 
 ---
 
