@@ -65,43 +65,57 @@ My goal is to contribute to innovative teams working on challenging problems in 
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,go,swift,bash,matlab" height="45" alt="Programming Languages"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,go,swift,bash,matlab" />
+  </a>
 <br>
 <br>
 
 **Frontend Development**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,d3" height="45" alt="Frontend Development"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,d3" />
+  </a>
 <br>
 <br>
 
 **Backend Development**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring" height="45" alt="Backend Development"/>
-<br>
-<br>
-
-**Data Science & Machine Learning**
-<br>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,sklearn,tensorflow,keras,pytorch,spark" height="45" alt="Data Science & ML"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring" />
+  </a>
 <br>
 <br>
 
 **Databases & Data Streaming**
 <br>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,kafka" height="45" alt="Databases & Data Streaming"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,kafka" />
+  </a>
+<br>
+<br>
+
+**Data Science & Machine Learning**
+<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,sklearn,tensorflow,keras,pytorch,spark" />
+  </a>
 <br>
 <br>
 
 **DevOps & Cloud**
 <br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci" height="45" alt="DevOps & Cloud"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci" />
+  </a>
 <br>
 <br>
 
-**Data Visualization & Other Tools**
+**Tools & Visualization**
 <br>
-<img src="https://skillicons.dev/icons?i=matplotlib,seaborn,plotly,rshiny,vscode" height="45" alt="Data Visualization & Tools"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,plotly,rshiny,vscode" />
+  </a>
 
 </div>
 
