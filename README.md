@@ -64,17 +64,17 @@ My goal is to contribute to innovative teams working on challenging problems in 
 ### Languages & Core Engineering
 * **🛠️ Tools & Technologies:**
     <div align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python" title="Python"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java" title="Java"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c" title="C"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" title="C++"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r" height="40" alt="r" title="R"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" title="JavaScript"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" title="TypeScript"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go" title="Go"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift" title="Swift"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" title="Bash"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab" title="MATLAB"/></a>&nbsp;
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python" title="Python"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java" title="Java"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c" title="C"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" title="C++"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r" height="40" alt="r" title="R"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" title="JavaScript"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" title="TypeScript"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go" title="Go"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift" title="Swift"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" title="Bash"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab" title="MATLAB"/></a> 
     </div>
 * **🧠 Concepts & Expertise:**
     * **Core CS:** Data Structures & Algorithms, OOP (SOLID), Design Patterns, Concurrency, Memory Management.
@@ -85,24 +85,24 @@ My goal is to contribute to innovative teams working on challenging problems in 
 ### Web, DevOps & Cloud
 * **🛠️ Tools & Technologies:**
     <div align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" title="HTML5"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" title="CSS3"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react" title="React"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" title="Next.js"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" title="Node.js"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express" title="Express"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi" title="FastAPI"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask" title="Flask"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring" title="Spring"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss" title="Tailwind CSS"/></a>&nbsp;
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" title="HTML5"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" title="CSS3"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react" title="React"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" title="Next.js"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" title="Node.js"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express" title="Express"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi" title="FastAPI"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask" title="Flask"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring" title="Spring"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss" title="Tailwind CSS"/></a> 
       <br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices" title="AWS"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" title="Docker"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" title="Kubernetes"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform" title="Terraform"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins" title="Jenkins"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions" title="GitHub Actions"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlabci" height="40" alt="gitlabci" title="GitLab CI"/></a>&nbsp;
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices" title="AWS"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" title="Docker"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" title="Kubernetes"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform" title="Terraform"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins" title="Jenkins"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions" title="GitHub Actions"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlabci" height="40" alt="gitlabci" title="GitLab CI"/></a> 
     </div>
 * **🧠 Concepts & Expertise:**
     * **Development:** Full-Stack Web Development, API Design (REST/GraphQL), Microservices Architecture.
@@ -114,31 +114,31 @@ My goal is to contribute to innovative teams working on challenging problems in 
 ### Data Science, AI & Bioinformatics
 * **🛠️ Tools & Technologies:**
     <div align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas" title="Pandas"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy" title="NumPy"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=scipy" height="40" alt="scipy" title="SciPy"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikitlearn" title="Scikit-learn"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" title="TensorFlow"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=keras" height="40" alt="keras" title="Keras"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch" title="PyTorch"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spark" height="40" alt="apachespark" title="Spark"/></a>&nbsp;
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas" title="Pandas"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy" title="NumPy"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=scipy" height="40" alt="scipy" title="SciPy"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikitlearn" title="Scikit-learn"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" title="TensorFlow"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=keras" height="40" alt="keras" title="Keras"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch" title="PyTorch"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spark" height="40" alt="apachespark" title="Spark"/></a> 
       <br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql" title="PostgreSQL"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" title="MySQL"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" title="MongoDB"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" title="Redis"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka" title="Kafka"/></a>&nbsp;
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql" title="PostgreSQL"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" title="MySQL"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" title="MongoDB"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" title="Redis"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka" title="Kafka"/></a> 
       <br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=d3" height="40" alt="d3js" title="D3.js"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=plotly" height="40" alt="plotly" title="Plotly"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=seaborn" height="40" alt="seaborn" title="Seaborn"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matplotlib" height="40" alt="matplotlib" title="Matplotlib"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rshiny" height="40" alt="rshiny" title="R Shiny"/></a>&nbsp;
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualstudiocode" title="VS Code"/></a>&nbsp;
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=d3" height="40" alt="d3js" title="D3.js"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=plotly" height="40" alt="plotly" title="Plotly"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=seaborn" height="40" alt="seaborn" title="Seaborn"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matplotlib" height="40" alt="matplotlib" title="Matplotlib"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rshiny" height="40" alt="rshiny" title="R Shiny"/></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualstudiocode" title="VS Code"/></a> 
     </div>
 * **🧠 Concepts & Expertise:**
     * **Data Science:** End-to-End Machine Learning Pipelines, ETL, Feature Engineering, Model Validation.
-    * **Bioinformatics:** Multi-Omics Data Integration, High-Throughput Sequencing (HCS) Analysis, Biomarker Discovery.
+    * **Bioinformatics:** Multi-Omics Data Integration, High-Throughput Sequencing (HTS) Analysis, Biomarker Discovery.
     * **Visualization:** Interactive Dashboarding, Scientific & Statistical Graphics.
  
 ---
