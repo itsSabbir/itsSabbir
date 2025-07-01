@@ -59,28 +59,45 @@ My goal is to contribute to innovative teams working on challenging problems in 
 
 ---
 
-## 💡 Technical Skills & Expertise
+## 💡 Technical Expertise
 
-| Domain | Tools & Technologies | Core Concepts & Expertise |
-| :--- | :--- | :--- |
-| **Languages & Core CS** | <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,go,swift,bash,matlab" /> | • Data Structures & Algorithms <br> • OOP & SOLID Principles <br> • System & Software Design Patterns <br> • Concurrency & Memory Management |
-| **Web, DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,spring,fastapi,flask,aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci" /> | • Full-Stack Development (Frontend/Backend) <br> • Distributed Systems & Microservices <br> • CI/CD, IaC & GitOps <br> • Agile, Scrum, Kanban, TDD |
-| **Data, AI & Bioinformatics** | <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,sklearn,tensorflow,pytorch,spark,kafka,postgresql,mysql,mongodb,redis,rshiny,d3" /> | • Multi-Omics Data Pipelines (ETL) <br> • High-Throughput Sequencing Analysis <br> • ML Model Implementation (SVM, RF, etc.) <br> • Interactive Data Visualization |
+### Languages & Core Engineering
+* **🛠️ Tools & Technologies:**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,go,swift,bash,matlab" height="40" alt="Languages"/>
+    </div>
+* **🧠 Concepts & Expertise:**
+    * **Core CS:** Data Structures & Algorithms, OOP (SOLID), Design Patterns, Concurrency, Memory Management.
+    * **Architecture:** System Design, Distributed Systems, Software Architecture Principles.
 
-### 🧠 Foundational Knowledge
+---
 
-#### Core CS & Software Engineering
-* **Concepts:** Data Structures & Algorithms, OOP (SOLID), Design Patterns, Concurrency, Memory Management
-* **Architecture:** System Design, Distributed Systems, Software Architecture
+### Web, DevOps & Cloud
+* **🛠️ Tools & Technologies:**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,nodejs,express,fastapi,flask,spring" height="40" alt="Web Technologies"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci" height="40" alt="DevOps & Cloud"/>
+    </div>
+* **🧠 Concepts & Expertise:**
+    * **Development:** Full-Stack Web Development, API Design (REST/GraphQL), Microservices Architecture.
+    * **Methodologies:** Agile, Scrum, Kanban, SDLC, Test-Driven Development (TDD).
+    * **Operations:** CI/CD Automation, Infrastructure as Code (IaC), Containerization & Orchestration.
 
-#### Bioinformatics
-* **Domain Specific:** Multi-Omics Data Integration, High-Throughput Sequencing Analysis, Biomarker Discovery, Protein Structure Analysis
-* **Tooling:** Scientific Computing (Bioconductor), High-Performance Computing (HPC), Nextflow Workflows
+---
 
-#### Workflow & Methodologies
-* **Development Lifecycle:** Agile/Scrum/Kanban, SDLC, CI/CD
-* **Quality & Practices:** TDD, Unit/Integration/E2E Testing, QA Principles, Debugging, Code Review, Technical Documentation
-
+### Data Science, AI & Bioinformatics
+* **🛠️ Tools & Technologies:**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,sklearn,tensorflow,keras,pytorch,spark" height="40" alt="Data & ML Frameworks"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,kafka,d3,plotly,seaborn,rshiny" height="40" alt="Databases, Streaming & Visualization"/>
+    </div>
+* **🧠 Concepts & Expertise:**
+    * **Data Science:** End-to-End Machine Learning Pipelines, ETL, Feature Engineering, Model Validation.
+    * **Bioinformatics:** Multi-Omics Data Integration, High-Throughput Sequencing (HCS) Analysis, Biomarker Discovery.
+    * **Visualization:** Interactive Dashboarding, Scientific & Statistical Graphics.
+ 
 ---
 
 ## 🏆 Key Achievements & Recognition
