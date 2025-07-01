@@ -59,65 +59,13 @@ My goal is to contribute to innovative teams working on challenging problems in 
 
 ---
 
-## 💡 My Technical Toolbox
+## 💡 Technical Skills & Expertise
 
-<div align="center">
-
-**Languages**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,go,swift,bash,matlab" />
-  </a>
-<br>
-<br>
-
-**Frontend Development**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,d3" />
-  </a>
-<br>
-<br>
-
-**Backend Development**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring" />
-  </a>
-<br>
-<br>
-
-**Databases & Data Streaming**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,kafka" />
-  </a>
-<br>
-<br>
-
-**Data Science & Machine Learning**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,sklearn,tensorflow,keras,pytorch,spark" />
-  </a>
-<br>
-<br>
-
-**DevOps & Cloud**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci" />
-  </a>
-<br>
-<br>
-
-**Tools & Visualization**
-<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,plotly,rshiny,vscode" />
-  </a>
-
-</div>
+| Domain | Tools & Technologies | Core Concepts & Expertise |
+| :--- | :--- | :--- |
+| **Languages & Core CS** | <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,js,ts,go,swift,bash,matlab" /> | • Data Structures & Algorithms <br> • OOP & SOLID Principles <br> • System & Software Design Patterns <br> • Concurrency & Memory Management |
+| **Web, DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,spring,fastapi,flask,aws,docker,kubernetes,terraform,jenkins,githubactions,gitlabci" /> | • Full-Stack Development (Frontend/Backend) <br> • Distributed Systems & Microservices <br> • CI/CD, IaC & GitOps <br> • Agile, Scrum, Kanban, TDD |
+| **Data, AI & Bioinformatics** | <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,sklearn,tensorflow,pytorch,spark,kafka,postgresql,mysql,mongodb,redis,rshiny,d3" /> | • Multi-Omics Data Pipelines (ETL) <br> • High-Throughput Sequencing Analysis <br> • ML Model Implementation (SVM, RF, etc.) <br> • Interactive Data Visualization |
 
 ### 🧠 Foundational Knowledge
 
