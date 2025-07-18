@@ -1,6 +1,6 @@
 # Sabbir Hossain
 
-### Elite Software & Data Engineer | Bioinformatics & AI Specialist
+### Software & Data Engineer | Bioinformatics & AI Specialist
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itssabbir" target="_blank">
