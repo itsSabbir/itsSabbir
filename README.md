@@ -115,7 +115,7 @@ I am a firm believer in perpetual learning to stay at the vanguard of technology
 ## ◈ Beyond The Keyboard
 
 When I disconnect to recharge, you can find me:
-*   Lost in the wizarding world of *Harry Potter* or debating the finer points of *The Office* and *Parks and Rec*.
+*   Lost in the wizarding world of *Harry Potter* or debating the finer points of *B99* and *many anime I've watched*.
 *   Perfecting Biryani variations in the kitchen.
 *   Following the discourse on sustainable technology and AI ethics.
 *   Attempting to keep a houseplant alive (success rates are variable).
