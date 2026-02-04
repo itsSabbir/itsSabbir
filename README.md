@@ -1,6 +1,6 @@
 # Sabbir Hossain
 
-### Software & Data Engineer | Bioinformatics & AI Specialist
+### Data Platform Engineer | Bioinformatics & AI Specialist
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itssabbir" target="_blank">
@@ -15,48 +15,30 @@
 
 ## ◈ About Me
 
-As a passionate technologist and a University of Toronto High Honours graduate (B.Sc. Comp Sci & Bioinformatics, GPA 3.96), I operate at the intersection of **Data Engineering**, **Software Engineering**, and **Computational Biology**. My driving mission is to architect and deploy robust, data-centric solutions that tackle high-stakes challenges, with a deep-seated focus on advancing **cancer research**.
+As a high-honours University of Toronto graduate (GPA 3.96), I bridge the gap between **High-Availability Platform Engineering** and **Computational Oncology**. I specialize in architecting distributed systems that handle petabyte-scale data, with a current focus on building enterprise analytics infrastructure at **Bell Canada** and advancing cancer biomarker discovery at **Johns Hopkins University**.
 
-My career is defined by end-to-end ownership across the **full software development lifecycle (SDLC)**. I architect, build, and scale complex distributed systems, high-throughput data pipelines, and sophisticated web services, primarily within the **AWS cloud ecosystem**. I adhere to rigorous engineering standards, including **SOLID principles**, **Test-Driven Development (TDD)**, and full-process automation via **CI/CD and Infrastructure as Code (IaC)**.
-
-Currently, I engineer large-scale data solutions as a **Data Engineer at Bell**, while continuing my specialized research at **Johns Hopkins University**. I thrive in high-performing, cross-functional teams and am relentlessly committed to continuous learning and technical excellence.
+I am a strong advocate for **clean code (SOLID)**, **TDD**, and **Infrastructure as Code (IaC)**, ensuring that every pipeline I build is observable, idempotent, and scalable.
 
 ---
 
-## ◈ Current Engagements
+## ◈ Professional Engagements
 
 <details open>
-<summary><strong>My Professional Focus Areas</strong></summary>
+<summary><strong>Core Responsibilities</strong></summary>
 <br>
 
-*   **🏢 @ Bell (Data Engineer):**
-    *   Architecting and implementing petabyte-scale, end-to-end data pipelines for enterprise analytics.
-    *   Leveraging high-throughput technologies like Apache Spark and Kafka for real-time data processing.
-    *   Engineering robust data quality frameworks and IaC patterns (Terraform, CloudFormation) on AWS and GCP.
-    *   Driving data governance and ensuring the reliability of mission-critical data infrastructure.
+* **🏢 @ Bell Canada (Data Platform Engineer):**
+    * Designing and delivering a **78-attribute MicroStrategy analytics platform** integrating 4+ enterprise systems for executive reporting.
+    * Reduced query latency by **83%** (12min to 2min) on 23M+ row datasets through advanced SQL optimization and pre-aggregation strategies.
+    * Implementing automated **observability and monitoring** that prevents 15+ monthly data quality incidents.
+    * Recovering **130,000+ records** and fixing **22,000+ misattributions** via SCD Type 2 temporal joins.
 
-*   **🔬 @ Johns Hopkins University (Full-Stack SWE / Researcher):**
-    *   Engineering scalable ETL pipelines on HPC & Cloud (AWS) to process **750TB+ of multi-omics datasets** (TCGA, ENCODE).
-    *   Implementing and validating production-grade ML models (TensorFlow, Keras, Scikit-learn) for biomarker discovery.
-    *   Architecting and deploying open-source, cloud-native bioinformatics platforms (Python, R, JS, C).
-    *   Building interactive data visualization portals using React, Next.js, and D3.js.
-
-*   **☁️ @ Outlier (Backend SWE Intern):**
-    *   Optimizing AI-generated code (Python, Java) and enhancing deep learning model efficiency.
-    *   Designing and deploying serverless backends (AWS Lambda, API Gateway) to achieve significant **cost reduction & performance gains**.
-    *   Spearheading the refactoring of GraphQL/REST APIs during a monolith-to-microservices migration.
+* **🔬 @ Johns Hopkins University (Bioinformatics SWE / Researcher):**
+    * Engineering scalable ETL pipelines on HPC clusters to process **750TB+ of multi-omics data**.
+    * Architecting open-source, cloud-native bioinformatics platforms used by **100+ global researchers**.
+    * Implementing production-grade ML models (SVM-RFE, Random Forests) for biomarker validation.
 
 </details>
-
----
-
-## ◈ GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://sabbir-gh-stats.vercel.app/api?username=itsSabbir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&cache_seconds=1800&manual_bust_stats=20240315113000_A" height="150" alt="Sabbir's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-eight-dun.vercel.app/?user=itsSabbir&theme=tokyonight&count_private=true&manual_bust_streak=20240315113000_B" height="150" alt="Sabbir's GitHub Streak" />
-  <img src="https://sabbir-gh-stats.vercel.app/api/top-langs?username=itsSabbir&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=3600&manual_bust_langs=20240315113000_C" height="150" alt="Sabbir's Top Languages"/>
-</p>
 
 ---
 
@@ -66,8 +48,8 @@ Currently, I engineer large-scale data solutions as a **Data Engineer at Bell**,
 <summary><strong>Languages & Core Engineering</strong></summary>
 <br>
 
-*   **Languages:** `Python`, `Java`, `Go`, `C/C++`, `R`, `JavaScript`, `TypeScript`, `Swift`, `Bash`, `MATLAB`
-*   **Core CS:** Data Structures & Algorithms, OOP (SOLID), System Design Patterns, Concurrency, Memory Management, Distributed Systems Architecture
+* **Languages:** `Python`, `SQL`, `R`, `C/C++`, `Java`, `TypeScript`, `Bash`
+* **Engineering:** System Design, Distributed Systems, Memory Management, OOP (SOLID)
 
 </details>
 
@@ -75,21 +57,18 @@ Currently, I engineer large-scale data solutions as a **Data Engineer at Bell**,
 <summary><strong>Data Engineering & AI/ML</strong></summary>
 <br>
 
-*   **Big Data & Streaming:** `Apache Spark`, `Apache Kafka`, `Redis`, `Pandas`, `NumPy`, `SciPy`
-*   **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, `SQL`, `NoSQL`
-*   **AI/ML Frameworks:** `TensorFlow`, `Keras`, `PyTorch`, `Scikit-learn`
-*   **Bioinformatics:** Multi-Omics Data Integration, High-Throughput Sequencing (HTS) Analysis, Biomarker Discovery
+* **Big Data:** `Apache Spark`, `PySpark`, `Apache Airflow`, `Apache Kafka`, `Teradata`
+* **Database Patterns:** Data Modeling (Kimball), SCD Types, Data Warehousing, PostgreSQL, NoSQL
+* **AI/ML:** `PyTorch`, `TensorFlow`, `Scikit-learn`, Anomaly Detection, Multi-Omics Integration
 
 </details>
 
 <details>
-<summary><strong>Cloud, DevOps & Web</strong></summary>
+<summary><strong>Cloud & DevOps</strong></summary>
 <br>
 
-*   **Cloud Platforms:** `AWS`, `GCP`, `Vercel`
-*   **DevOps & IaC:** `Docker`, `Kubernetes`, `Terraform`, `Jenkins`, `GitHub Actions`, `GitLab CI`
-*   **Backend:** `Node.js`, `FastAPI`, `Flask`, `Spring Boot`, `Express.js`, `GraphQL`, `REST`
-*   **Frontend:** `React`, `Next.js`, `D3.js`, `R Shiny`, `Tailwind CSS`, `HTML5/CSS3`
+* **Cloud:** `AWS (S3, EC2, RDS, Lambda)`, `GCP`
+* **DevOps/SRE:** `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`, `CI/CD`, `Observability`
 
 </details>
 
@@ -97,23 +76,11 @@ Currently, I engineer large-scale data solutions as a **Data Engineer at Bell**,
 
 ## ◈ Signature Accomplishments
 
--   ✨ **Accelerated Cancer Biomarker Discovery:** Engineered high-throughput data pipelines at Johns Hopkins to process over **750 TB of multi-omics data**, directly contributing to the discovery of **8 novel cancer biomarkers**.
--   ⚡ **Architected High-Performance Research Platforms:** Reduced analysis load times by **83%** and empowered **100+ global researchers** by architecting a fault-tolerant, microservices-based bioinformatics platform (Docker, Kubernetes, Redis).
--   ☁️ **Engineered High-Availability Cloud Infrastructure:** Deployed zero-downtime microservices on AWS using IaC (Terraform), achieving **95% TDD coverage** and cutting infrastructure costs by **30%** via serverless architecture (AWS Lambda).
--   ✅ **Pioneered ML-Driven Data Integrity:** Boosted data reliability by **30%** across large-scale genomic datasets by engineering and integrating automated ML anomaly detection systems (TensorFlow, Scikit-learn) into production CI/CD pipelines.
--   📈 **Optimized API Performance & Scalability:** Slashed backend API latency by **35%** for GraphQL/REST endpoints by implementing advanced API Gateway strategies, caching, and query batching.
--   🎤 **Harvard NCRC 2024 Plenary Speaker:** Selected as **1 of only 12 plenary speakers** from a pool of over **5,000 global applicants** at the National Collegiate Research Conference hosted by Harvard University.
--   🌐 **Spearheaded Major Open-Source Initiative:** Created and maintain the **[Programming Language Learning Hub](https://github.com/itsSabbir/programming-language-learning-hub)**, managing **40+ community contributors** and growing the user base to over **1,000 developers worldwide**.
-
-<details>
-<summary><strong>See More Awards & Recognition...</strong></summary>
-<br>
-<ul>
-    <li>🥇 <strong>Best Detailed Oral Presentation Award @ ABRCMS 2023:</strong> Recognized as the top presenter in my division, selected from ~80 finalists out of 3,500+ attendees.</li>
-    <li>🥇 <strong>Best Poster Presentation Award @ ABRCMS 2024:</strong> Secured top honors against a field of 150+ graduate-level presenters.</li>
-    <li>🎓 <strong>Multiple Academic Awards @ University of Toronto (2022, 2023, 2024):</strong> Recipient of the "Friends of Arts & Science Award" in both Computer Sciences and Physical/Life Sciences for academic excellence.</li>
-</ul>
-</details>
+- 📊 **Enterprise Impact:** Designed a director-level analytics platform for Bell Canada and secured production deployment within **6 weeks**.
+- 🧬 **Oncology Breakthroughs:** Directly contributed to the discovery of **8 novel biomarker candidates** through large-scale data integration at JHU.
+- ⚡ **Infrastructure Recovery:** Expanded historical analytical coverage from 1 to 9 months by correcting systemic data integrity drift.
+- 🎤 **Global Recognition:** Selected as **1 of 12 plenary speakers** from over **5,000 applicants** at the Harvard NCRC 2024.
+- 🏆 **Research Excellence:** Back-to-back **Best Presentation Awards** at ABRCMS (2023, 2024) in the Computational and Systems Biology division.
 
 ---
 
