@@ -1,6 +1,6 @@
 # Sabbir Hossain
 
-### Data Platform Engineer | Bioinformatics & AI Specialist
+### Data Engineer |
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itssabbir" target="_blank">
