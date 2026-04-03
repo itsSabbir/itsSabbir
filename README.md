@@ -84,7 +84,7 @@ I am a strong advocate for **clean code (SOLID)**, **TDD**, and **Infrastructure
 
 ---
 
-/*
+<!--
 ## ◈ Featured Project Showcase
 
 <details open>
@@ -102,7 +102,7 @@ I am a strong advocate for **clean code (SOLID)**, **TDD**, and **Infrastructure
 </details>
 
 ---
-*/
+-->
 
 ## ◈ Continuous Evolution
 
